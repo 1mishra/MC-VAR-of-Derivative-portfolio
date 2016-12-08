@@ -1,2 +1,2 @@
 # MC-VAR-of-Derivative-portfolio
-Please see included pdf document of details of this approach
+Please see included pdf document of details of this POC research
